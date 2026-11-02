@@ -6,19 +6,19 @@
 
 - 原项目：[mikufoxxx/Wenku8_Flutter](https://github.com/mikufoxxx/Wenku8_Flutter)（Flutter 重写版，2026 年 9–10 月）
 - 上游源头：[MewX/light-novel-library_Wenku8_Android](https://github.com/MewX/light-novel-library_Wenku8_Android)（轻小说文库第三方 Android 客户端，始于 2014 年）
-- 原作者已主动将 GitHub Release 全部转为草稿、停止公开下载，本仓库仅存档其已公开发布过的 v0.4.0 安装包，供已卸载或换机用户重新安装。
+- 原作者已主动将 GitHub Release 全部转为草稿、停止公开下载，本仓库仅存档其已公开发布过的 v0.3.7 安装包，供已卸载或换机用户重新安装。
 
 本存档不包含源码、不做二次开发、不承接问题反馈；功能问题请以原仓库 Issues 与作者为准。
 
 ## 安装包
 
-对应版本：**v0.4.0**（2026-10-18 发布，Android 正式签名）
+对应版本：**v0.3.7**（2026-10-18 发布，Android 正式签名）
 
 | 文件 | 适用设备 |
 | --- | --- |
-| `wenku8-0.4.0-arm64-v8a.apk` | 2019 年以后的绝大多数安卓手机（推荐） |
-| `wenku8-0.4.0-armeabi-v7a.apk` | 老旧 32 位设备 |
-| `wenku8-0.4.0-x86_64.apk` | 安卓模拟器 / Windows 安卓子系统 |
+| `wenku8-0.3.7-arm64-v8a.apk` | 2019 年以后的绝大多数安卓手机（推荐） |
+| `wenku8-0.3.7-armeabi-v7a.apk` | 老旧 32 位设备 |
+| `wenku8-0.3.7-x86_64.apk` | 安卓模拟器 / Windows 安卓子系统 |
 
 Android 8.0 及以上允许安装未知来源应用后，直接点 apk 安装即可。
 
